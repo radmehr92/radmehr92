@@ -9,3 +9,5 @@ echo "👋 Hi, I'm $name!\n";
 echo "🚀 $title\n";  
 echo "📫 Contact me at: $email\n";  
 ?>
+
+Tools I use :
