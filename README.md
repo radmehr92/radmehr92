@@ -1,5 +1,6 @@
 <div align="center">
-  # Hi there! I'm Ali Radmehr 👋
+  <strong>Hi there! I'm Ali Radmehr 👋</strong>
+  
 </div>
 
----
+----
