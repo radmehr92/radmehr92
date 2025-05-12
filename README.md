@@ -3,8 +3,9 @@
 </div>
 
 
-👨‍💻 About Me  
-
+<div align="left">
+  <h2 style="font-size: 16px;">👨‍💻 About Me:</h1>
+</div>
 
 🚀 Working on innovative startups and industrial solutions  
 💡 Passionate about entrepreneurship and technology  
