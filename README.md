@@ -25,3 +25,24 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
 
+
+<div align="left">
+  <h2 style="font-size: 16px;">🏆 Achievements & Contributions</h1>
+</div>
+
+- ✅ Full-stack developer (Frontend & Backend) - Sanat Express startup project
+
+
+<div align="left">
+  <h2 style="font-size: 16px;">📫 Let's Connect!</h1>
+</div>
+
+<a href="mailto:ali.radmeehr@gmail.com" style="margin-right: -4px;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a> 
+<a href="https://x.com/ali_radmehr92" target="_blank" style="margin-left: -4px;">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> 
+</a>
+
+
+
