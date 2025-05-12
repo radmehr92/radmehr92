@@ -40,9 +40,15 @@
 <a href="mailto:ali.radmeehr@gmail.com" style="margin-right: -4px;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a> 
+
 <a href="https://x.com/ali_radmehr92" target="_blank" style="margin-left: -4px;">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> 
 </a>
+
+<a href="https://t.me/radmehr1153" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
+</a>
+
 
 
 
