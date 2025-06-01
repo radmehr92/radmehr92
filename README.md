@@ -7,11 +7,10 @@
   <h3 style="font-size: 16px;">👨‍💻 About Me:</h3>
 </div>
 
-
-
-- **Android Developer** (2018-2021): 3 years of experience in building Android applications, focusing on user interface design and performance optimization.
-- **Full-Stack PHP Developer** (2021-2024): 3 years of expertise in Laravel, specializing in system optimization and resolving infrastructure issues.
 - **JavaScript & TypeScript Developer** (2024-Present): Currently developing scalable web applications using JavaScript and TypeScript, with a focus on modern frameworks like React and Node.js, building robust front-end and back-end solutions, and enhancing code quality through type safety and best practices.
+- **Full-Stack PHP Developer** (2021-2024): 3 years of expertise in Laravel, specializing in system optimization and resolving infrastructure issues.
+- **Android Developer** (2018-2021): 3 years of experience in building Android applications, focusing on user interface design and performance optimization.
+
 
 
 <div align="left">
