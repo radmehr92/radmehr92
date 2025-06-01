@@ -49,26 +49,29 @@
 </div>
 
 <div align="left">
-  <h2 style="font-size: 16px;">🏆 Achievements & Contributions</h2>
+  <h3 style="font-size: 16px;">🏆 Achievements & Contributions</h3>
 </div>
 
-- ✅ Full-stack developer (Frontend & Backend) - Sanat Express startup project
-
+- ✅ Android Developer - Designed and developed the Bimeh Rustaee Android application, delivering a user-friendly insurance management solution for rural communities.
+- ✅ Android Developer - Designed and developed the Hamyar Naft Android application, providing efficient tools for oil industry support services.
+- ✅ Full-Stack Developer (Frontend & Backend) - Contributed to the Sanat Express startup project, building robust web solutions using Laravel, JavaScript, and modern frameworks.
 
 <div align="left">
-  <h2 style="font-size: 16px;">📫 Let's Connect!</h1>
+  <h1 style="font-size: 16px;"></h1>
+</div>
+
+<div align="left">
+  <h3 style="font-size: 16px;">📫 Let's Connect!</h3>
 </div>
 
 <a href="mailto:ali.radmeehr@gmail.com" style="margin-right: -4px;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /> 
 </a> 
 
-<a href="https://x.com/ali_radmehr92" target="_blank" style="margin-left: -4px;">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> 
-</a>
+
 
 <a href="https://t.me/radmehr1153" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" /> 
 </a>
 
 
