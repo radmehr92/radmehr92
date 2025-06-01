@@ -4,8 +4,10 @@
 
 
 <div align="left">
-  <h2 style="font-size: 16px;">👨‍💻 About Me:</h1>
+  <h3 style="font-size: 16px;">👨‍💻 About Me:</h3>
 </div>
+
+
 
 - **Android Developer** (2018-2021): 3 years of experience in building Android applications, focusing on user interface design and performance optimization.
 - **Full-Stack PHP Developer** (2021-2024): 3 years of expertise in Laravel, specializing in system optimization and resolving infrastructure issues.
@@ -17,18 +19,37 @@
 </div>
 
 <div align="left">
-  <h2 style="font-size: 16px;">🛠️ Tech Stack</h1>
+  <h3 style="font-size: 16px;">🛠️ Tech Stack</h3>
+</div>
+
+<div align="left">
+  <h4 style="font-size: 16px;">Languages & Frontend</h4>
 </div>
 
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> 
- <img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Livewire-4E56A6.svg?style=for-the-badge&logo=Livewire&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" /> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black" /> <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" /> 
+
+<div align="left">
+  <h4 style="font-size: 16px;">Backend & Database</h4>
+</div>
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white" />
 
 
 <div align="left">
-  <h2 style="font-size: 16px;">🏆 Achievements & Contributions</h1>
+  <h4 style="font-size: 16px;">Tools & Platforms</h4>
+</div>
+
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" />
+ 
+
+
+<div align="left">
+  <h1 style="font-size: 16px;"></h1>
+</div>
+
+<div align="left">
+  <h2 style="font-size: 16px;">🏆 Achievements & Contributions</h2>
 </div>
 
 - ✅ Full-stack developer (Frontend & Backend) - Sanat Express startup project
