@@ -52,9 +52,10 @@
   <h3 style="font-size: 16px;">🏆 Achievements & Contributions</h3>
 </div>
 
-- ✅ Android Developer - Designed and developed the Bimeh Rustaee Android application, delivering a user-friendly insurance management solution for rural communities.
-- ✅ Android Developer - Designed and developed the Hamyar Naft Android application, providing efficient tools for oil industry support services.
 - ✅ Full-Stack Developer (Frontend & Backend) - Contributed to the Sanat Express startup project, building robust web solutions using Laravel, JavaScript, and modern frameworks.
+- ✅ Android Developer - Designed and developed the Hamyar Naft Android application, providing efficient tools for oil industry support services.
+- ✅ Android Developer - Designed and developed the Bimeh Rustaee Android application, delivering a user-friendly insurance management solution for rural communities.
+
 
 <div align="left">
   <h1 style="font-size: 16px;"></h1>
